@@ -60,4 +60,4 @@ let g = 30
 
 let fahrenheit = (g * 9/5) + 32
 
-console.log(fahrenheit)
+console.log(fahrenheitt)
